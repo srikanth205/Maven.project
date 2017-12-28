@@ -7,18 +7,6 @@
   <version>1.0-SNAPSHOT</version>
   <name>test</name>
   <url>http://maven.apache.org</url>
-  <parent>
-    <groupId>org.jenkins-ci</groupId>
-    <artifactId>jenkins</artifactId>
-    <version>1.39</version>
-  </parent>
-  <licenses>
-    <license>
-      <name>The MIT license</name>
-      <url>http://www.opensource.org/licenses/mit-license.php</url>
-      <distribution>repo</distribution>
-    </license>
-  </licenses>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
