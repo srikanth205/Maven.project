@@ -9,3 +9,5 @@ export M2_HOME=/usr/share/maven
 mvn -version
 
 mvn package
+
+adding automation
